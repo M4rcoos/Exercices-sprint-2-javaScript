@@ -1,0 +1,1 @@
+Você deverá criar uma varíavel do tipo String e para cada case dentro do switch, deve-se retornar um número aleátorio( que deve ser gerado pelo código e não manual).

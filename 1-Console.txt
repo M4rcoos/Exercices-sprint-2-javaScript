@@ -1,0 +1,1 @@
+Deverá ser exibido no console um texto com a seguinte mensagem: "Timeware" e na linha de baixo o ano atual deverá ser exibido também.

@@ -1,0 +1,1 @@
+Crie um Array de números e depois faça a soma se todos os elementos dentro do array.

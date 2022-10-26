@@ -1,0 +1,1 @@
+Crie duas funções de conversão de temperatura. Uma de Celsius para Farenheit e outra de Farenheit para Celsius.

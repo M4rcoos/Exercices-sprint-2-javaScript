@@ -1,0 +1,4 @@
+Neste exercício, vocês deveram criar 2 Strings e 2 Numbers. Logo após deverá ser feito uma condicional que valide se a primeira String tem o mesmo valor e o mesmo tipo da segunda String e também se os dois números tem o valor igual.
+
+Depois disso, deve-se verificar com um IF TERNARIO, se o primeiro number é Maior que o segundo OU a primeira string é igual a segunda string.
+

@@ -1,0 +1,5 @@
+    Neste exercício, vocês deverão criar três variáveis, dois do tipo Number e um do tipo String.
+
+Logo após, vocês deverão fazer a primeira condicional, que irá verificar se os dois Numbers possuem o mesmo valor, caso sim deve ser retornado um no console a condição True, caso não sejam iguais deverá ser retornado False no console.
+
+Com os dois primeiros passos feitos vocês deverão fazer uma validação de tipo de variável, verificar se a nossa String tem o mesmo tipo de dado que o nosso tipo Number, caso sim, retornar um console escrito "errado", caso não retornar um console escrito "certo".

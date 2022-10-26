@@ -1,0 +1,1 @@
+Crie uma várival de Number com o valor inicial de 0 e crie um Laço do While que adicione mais 1 ao seu valor enquanto a variável for menor que 10, exiba todo o processo no console.

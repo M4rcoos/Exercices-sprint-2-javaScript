@@ -1,0 +1,1 @@
+Faça um laço que imprima todos os números de 1 a 10

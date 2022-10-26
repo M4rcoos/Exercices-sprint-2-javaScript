@@ -1,0 +1,1 @@
+Neste exercício, devem ser criados os seguintes dados: uma variável de tipo String, uma variável de tipo Number, uma do tipo Boolean e por fim um array de string (Lista). No final exibindo todos esses tipos no console.
